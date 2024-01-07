@@ -17,7 +17,8 @@ Project Organization
     ├── results				<- Final model metrics for different models saved here
     │
     ├── reports 
-    │   └── figures        	   	<- Generated graphics and figures to be used in reporting. Contains data distribution  and correlation scatter plots
+    │   └── figures        	   	<- Generated graphics and figures to be used in reporting. Contains data distribution  and     
+                                    correlation scatter plots
     │	└── Modelreport_summary.docx    	<- Word document containing report summary and analysis for the given prediction problem.
     ├── requirements.txt   	    	<- The requirements file for reproducing the analysis environment, 
     │
@@ -26,7 +27,7 @@ Project Organization
     ├── src                		   	<- Source code for use in this project.
     │   ├── __init__.py                	<- Makes src a Python module
     │   │
-    │	 ├── main_orch.py   		<- The main script starts here. Orchestrates data and model pipeline	
+    │	├── main_orch.py   		<- The main script starts here. Orchestrates data and model pipeline	
     │   │
     │   ├── data_prep          		<- Scripts to download and prepare data for model training
     │   │   └── data_main.py	<- Script for orchestrating data preparation pipeline
