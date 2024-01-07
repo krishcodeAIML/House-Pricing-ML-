@@ -18,7 +18,7 @@ Project Organization
     │
     ├── reports 
     │   └── figures        	   	<- Generated graphics and figures to be used in reporting. Contains data distribution  and correlation scatter plots
-    │	 └── Modelreport_summary.docx    	<- Word document containing report summary and analysis for the given prediction problem.
+    │	└── Modelreport_summary.docx    	<- Word document containing report summary and analysis for the given prediction problem.
     ├── requirements.txt   	    	<- The requirements file for reproducing the analysis environment, 
     │
     ├── setup.py                       	<- contains project details
