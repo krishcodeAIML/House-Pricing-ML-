@@ -1,0 +1,6 @@
+,model_name,best_param,RMSE,MAE
+0,KNeighborsRegressor,{'n_neighbors': 15},132114.33063798567,113930.77999999997
+1,GradientBoostingRegressor,"{'learning_rate': 0.01, 'max_depth': 4, 'n_estimators': 50}",130661.13468420942,112849.14914553675
+2,XGBRegressor,"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 50}",129825.17685933827,112405.396875
+3,RandomForestRegressor,"{'max_depth': 3, 'n_estimators': 50}",130179.63958503392,112294.07017828137
+4,SVR,"{'C': 1, 'gamma': 'scale'}",131456.41916671777,113917.01812558787
