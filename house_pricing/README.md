@@ -9,7 +9,7 @@ Project Organization
     ├── LICENSE
     ├── README.md                	<- The top-level README document for project structure and usage of scripts
     ├── data
-    │   ├── analysis_results    	<- All the initial data analysis, descriptive analysis and correlation analysis results are stored here. Check for null values and data types etc. 
+    │   ├── analysis_results    	<- All the initial data analysis, descriptive analysis and correlation analysis results are stored here. Check for null values and data types etc. Tried different transformations like log, inverse - none of them worked to get the correlation between target and independent variables
     │   └── raw            		   	<- The original raw data location
     │
     ├── models             		   	<- Trained and serialized models saved here
